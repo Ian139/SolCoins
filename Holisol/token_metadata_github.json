@@ -1,0 +1,15 @@
+{
+	"name": "HOLISOL",
+	"symbol": "HOLISOL",
+	"description": "GRAB YOUR $ORALOS AND MOONWALK TO THE MOON – IT'S THE ONLY WAY TO GO FORWARD",
+	"image": "https://raw.githubusercontent.com/Ian139/Sol2/main/image.png",
+	"attributes": [],
+	"properties": {
+		"files": [
+			{
+				"uri": "https://raw.githubusercontent.com/Ian139/Sol2/main/image.png",
+				"type": "image/png"
+			}
+		]
+	}
+}
