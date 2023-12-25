@@ -1,7 +1,7 @@
 {
 	"name": "HOLISOL",
 	"symbol": "HOLISOL",
-	"uri": "https://raw.githubusercontent.com/Ian139/Sol2/main/token_metadata_github.json",
+	"uri": "https://raw.githubusercontent.com/Ian139/SolCoins/main/Holisol/token_metadata_github.json",
 	"seller_fee_basis_points": 100,
 	"creators": [
 		{
